@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Geladeira Branca 342L",
       "price": "1989"
+    },
+    {
+      "id": 5,
+      "name": "caneca de porcelana",
+      "price": "25"
     }
   ]
 }
