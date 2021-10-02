@@ -24,6 +24,11 @@
       "id": 5,
       "name": "caneca de porcelana",
       "price": "25"
+    },
+    {
+      "name": "TV LG 4k 60 sdfsd'",
+      "price": "2999",
+      "id": 6
     }
   ]
 }
